@@ -1,5 +1,3 @@
-uwu
-no uwu
-owo
-no owo
-npm i kys
+# Rat
+
+## Yo, I'm Rat
